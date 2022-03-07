@@ -17,7 +17,7 @@
 #
 # gry = {1: "Icy Tower", 2: "Pasjans", 3: "World of Tanks"}
 #
-# print(gry.__len__())
+# print(len(gry))
 #
 # #zadanie 4
 #
