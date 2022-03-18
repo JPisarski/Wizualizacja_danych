@@ -125,6 +125,7 @@
 # Sprawdzam.idź_w_lewo(1)
 # Sprawdzam.idź_w_dół(1)
 # Sprawdzam.pokaż_gdzie_jesteś()
+#
 
 
 
