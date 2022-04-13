@@ -6,9 +6,9 @@ import numpy as np
 # print(x)
 #
 # #zadanie 2
-#
-# x = [5.0, 6.6, 7.5, 9.25]
-# y = [np.int32(a) for a in x]
+# 
+# x = np.array([5.0, 6.6, 7.5, 9.25])
+# y = x.astype("int32")
 # print(y)
 #
 # #zadanie 3
