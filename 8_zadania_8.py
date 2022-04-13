@@ -16,11 +16,11 @@ import numpy as np
 # print(y.min(0))
 # print(y.min(1))
 #
-#zadanie 3
-#
+# #zadanie 3
+# 
 # x = np.array([1, 2, 3])
 # y = np.array([4, 5, 6])
-# z = np.multiply(x, y)
+# z = np.dot(x, y)
 # print(z)
 #
 # #zadanie 4
