@@ -64,10 +64,18 @@ import numpy as np
 #     print(z)
 #
 # #zadanie 10
-#
+# 
 # x = np.arange(81).reshape(9, 9)
-# x = x.reshape(81, 1)
 # print(x)
+# a = x.reshape(81, 1)
+# print(a)
+# b = x.reshape(1, 81)
+# print(b)
+# c = x.reshape(3, 27)
+# print(c)
+# d = x.reshape(27, 3)
+# print(d)
+#
 # #zadanie 11
 #
 # x = np.arange(12)
